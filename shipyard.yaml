@@ -9,3 +9,7 @@ spec:
         - name: "hello"
           tasks:
             - name: "remote-task"
+        - name: "hello-local"
+          tasks:
+            - name: "hello-world"
+       
